@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className='nav'>
 
-   <div><img src="public/image-removebg-preview (10) 1.svg" alt="Bank logo" /></div>
+   <div><img src="image-removebg-preview (10) 1.svg" alt="Bank logo" /></div>
    
    <div className="nav-links"  >
     <ul>
