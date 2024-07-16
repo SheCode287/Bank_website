@@ -9,10 +9,10 @@ function Section2() {
  <h3>BUSINESS PARTNERS</h3>
 
     <div className="logo">
-      <img src="public/Frame 1.svg" alt="Patners logo" />
-      <img src="public/Frame 13.svg" alt="Patners logo" />
-      <img src="public/Frame 14.svg" alt="Patners logo" />
-      <img src="public/Frame 15.svg" alt="Patners logo" />
+      <img src="Frame 1.svg" alt="Patners logo" />
+      <img src="Frame 13.svg" alt="Patners logo" />
+      <img src="Frame 14.svg" alt="Patners logo" />
+      <img src="Frame 15.svg" alt="Patners logo" />
     </div>
 
 

@@ -11,22 +11,22 @@ function Section4() {
 
       <div className="section-4-img">
         <div>
-          <img src="public/Image (2).svg" alt="" />
+          <img src="Image (2).svg" alt="" />
           <p>IPDC SAVING SCHEMES</p>
           <FaCircleArrowRight style={{ color: '#ED017F'}}/>
         </div>
         <div>
-          <img src="public/Image (3).svg" alt="" />
+          <img src="Image (3).svg" alt="" />
           <p>IPDC SAVING SCHEMES</p>
           <FaCircleArrowRight style={{ color: '#ED017F'}}/>
         </div>
         <div>
-          <img src="public/Image (4).svg" alt="" />
+          <img src="Image (4).svg" alt="" />
           <p>IPDC SAVING SCHEMES</p>
           <FaCircleArrowRight style={{ color: '#ED017F'}} />
         </div>
         <div>
-          <img src="public/Image (5).svg" alt="" />
+          <img src="Image (5).svg" alt="" />
           <p>IPDC SAVING SCHEMES</p>
           <FaCircleArrowRight style={{ color: '#ED017F'}} />
         </div>

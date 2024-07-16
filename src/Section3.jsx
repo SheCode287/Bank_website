@@ -4,7 +4,7 @@ function Section3() {
   return (
     <div className='section-3'>
 
-  <div><img src="public/Picture.svg" alt="" /></div>
+  <div><img src="Picture.svg" alt="" /></div>
 
   <div className="section-3-2">
     <h3>IPDC AT A GLANCE</h3>
