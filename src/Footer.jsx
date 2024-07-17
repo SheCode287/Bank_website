@@ -54,7 +54,7 @@ function Footer() {
                       Investor Relations</p>
           </div>
 
-          <div className="phone"><MdOutlinePhone /> 16519</div>
+          <div className="phone"><MdOutlinePhone style={{ color: '#ED017F', height:'24px', width:'24px'}} /> 16519</div>
 
 
 

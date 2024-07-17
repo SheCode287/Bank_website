@@ -16,7 +16,7 @@ function Section1() {
        <div className="section1-ctr">
          <div className="sec1-content">
           <h1>Creating Extraordinary Customer Experience</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam bibendum eget morbi
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.   <br /> Nullam bibendum eget morbi
            dignissim eu pharetra consequat montes, sagittis.</p>
          </div>
          

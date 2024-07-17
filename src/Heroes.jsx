@@ -6,6 +6,8 @@ import { FaInstagram } from "react-icons/fa";
 import { BsThreeDotsVertical } from "react-icons/bs";
 import { FaCarSide } from "react-icons/fa6";
 import { CiHome } from "react-icons/ci";
+import "./index.css"
+
 function Heroes() {
   return (
     <>
@@ -29,11 +31,12 @@ function Heroes() {
              </div>
       </div>
       <div className="Heroes-2">
+         <div className="test"></div>
          <div className="car-icon"><FaCarSide  style={{ color: '#ED017F', height:'30px', width:'30px'}} /> <p>Car Loans</p></div>
           <div className="background"></div>
          <div className="home-icon">< CiHome  style={{ color: '#ED017F', height:'30px', width:'30px'}}/>  <p>Home Loan</p></div>
          <div className="dot-icons">
-         <BsThreeDotsVertical  style={{ color: '#ED017F', height:'30px', width:'30px'}}/>
+         <BsThreeDotsVertical  style={{ color: '#ED017F', height:'40px', width:'40px'}}/>
          </div>
       </div>
     </div>

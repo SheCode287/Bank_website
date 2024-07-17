@@ -16,15 +16,17 @@ function App() {
 
   return (
     <>
-       <Navbar />
-       <Heroes />
-       <Section1 />
-       <Section2 />
-       <Section3 />
-       <Section4 />
-       <Section5 />
-       <Section6 />
-       <Footer/>
+       <div className="container">
+         <Navbar />
+         <Heroes />
+         <Section1 />
+         <Section2 />
+         <Section3 />
+         <Section4 />
+         <Section5 />
+         <Section6 />
+         <Footer/>
+       </div>
       
     </>
   )
